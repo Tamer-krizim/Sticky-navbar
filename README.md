@@ -1,3 +1,3 @@
 # Sticky-navbar
 
-![Alt Text] 
+![Alt Text] (skitch.gif)
