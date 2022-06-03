@@ -1,3 +1,2 @@
 # Sticky-navbar
-
-![Alt Text] (skitch.gif)
+<img alt="" src="./skitch.gif"/>
